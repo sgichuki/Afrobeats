@@ -15,7 +15,7 @@ Danceability is one of the attributes of Spotify data. Danceability "describes h
 
 ## 3.Most danceable songs by artist 
 I chose to explore particular artists discography. I chose Wizkid and Davido, there was no formula to this, they just happen to have been in the industry for a long time. 
-Here are the plots for each one, thought it would be more representative to have a background image for each plot. When you choose to use a background image for your plots, consider picking something that is not too busy. For this Wizkid photo, I chose one where the artist has plain grey in the background. This makes it easier for you when adjusting your bar colors for instance.
+Here are the plots for each one, thought it would be more representative to have a background image of the artist for each plot. When you choose to use a background image for your plots, consider picking something that is not too busy. For this Wizkid photo, I chose one where the artist has plain grey in the background. This makes it easier for you when adjusting your bar colors for instance.
 
 ![Wizkid's most danceable songs on Spotify](wizkidgraph.jpg)
 
