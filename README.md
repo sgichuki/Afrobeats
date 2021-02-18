@@ -5,7 +5,7 @@ This post is inspired by an article about popular podcasts in Kenya (https://nat
 
 ## 1. What is the most common genre in Afrobeats music?
 The original data set has a field called "Popularity", starting from zero to the highest 73. I chose to filter out all zero values. 
-The histogram generated is below: 
+No surprises here, afrobeats draws alot from dancehall music i.e. in terms of the beats. So no wonder one of the most popular genres represented is dancehall. 
 ![Popular songs histogram](popsonghistogram.jpg)
 
 ## 2. Which are the most danceable songs? 
