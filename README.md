@@ -27,7 +27,6 @@ Here are the plots for each one, thought it would be more representative to have
 
       #To insert background image use the annotation custom function of the ggplot2 package 
       #and the rasterGrob-function of the grid package
-      
       ggplot(WizKid_df,aes(x=reorder(name,danceability),danceability))+ 
       ggtitle("Wizkid most danceable songs on Spotify")+xlab("")+
       scale_fill_continuous(guide = FALSE)+
