@@ -1,7 +1,7 @@
 # Afrobeats
 Analysis of popular African music on Spotify
 # Project description: 
-I read an article about [popular podcasts in Kenya](https://nation.africa/kenya/newsplex/kenya-s-best-and-highest-earning-podcasts-3288260) and how this medium is catching on. It got me curious about which datasets on media or the arts :perfoming_arts: specifically from Africa was out there.On Kaggle I found a dataset of African music on Spotify, most is from Nigerian artists, this is why I use the term afrobeats to describe it. Here are some plots from this data in R 
+I read an article about [popular podcasts in Kenya](https://nation.africa/kenya/newsplex/kenya-s-best-and-highest-earning-podcasts-3288260) and how this medium is catching on. It got me curious about which datasets on media or the arts :smile: specifically from Africa was out there.On Kaggle I found a dataset of African music on Spotify, most is from Nigerian artists, this is why I use the term afrobeats to describe it. Here are some plots from this data in R 
 
 ## 1. What is the most common genre in Afrobeats music?
 The original data set has a field called "Popularity", starting from zero to the highest 73. I chose to filter out all zero values. 
