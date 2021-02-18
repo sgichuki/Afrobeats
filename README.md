@@ -13,7 +13,7 @@ Danceability is one of the attributes of Spotify data. Danceability "describes h
 
 ![Most danceable songs](danceabilityplot.jpg)
 
-## 3.Most danceable songs by artist 
+## 3.Most danceable songs by African artists 
 I chose to explore particular artists discography. I chose Wizkid and Davido, there was no formula to this, they just happen to have been in the industry for a long time. 
 Here are the plots for each one, thought it would be more representative to have a background image of the artist for each plot. When you choose to use a background image for your plots, consider picking something that is not too busy. For this Wizkid photo, I chose one where the artist has plain grey in the background. This makes it easier for you when adjusting your bar colors for instance.
 
@@ -23,7 +23,11 @@ I did the same for Davido. However, I could not find a photo in a good size with
 
 ![Davido's most danceable songs on Spotify](davidograph.jpg)
 
-## 4. Which African artists were the most popular on Spotify?
-For this, I filtered them out of the data set based on average of the popularity scores of their songs. One you look at the plot, you notice that both Starboy and Wizkid appear, same person right? Not so much, an article on Medium explains that each moniker is associated with a particular style of music targeted at different audiences. Wizkid content is targeted at his international audience, while Starboy caters to his Nigerian fan base who love his afrobeat vibe. Read more about this here: [Wizkid or StarBoy, what's the difference?](https://medium.com/@txt_mag/wizkid-or-starboy-whats-the-difference-48000d7a846b)
+## 4. Which African artists are most popular on Spotify?
+For this, I filtered them out of the data set based on average of the popularity scores of their songs. One you look at the plot, you notice that both Starboy and Wizkid appear, same person right? Not so much, an article on Medium explains that each moniker is associated with a particular style of music targeted at different audiences. Wizkid content is targeted at his international audience, while Starboy caters to his Nigerian fan base who love his afrobeat vibe. Read more about this here: [Wizkid or StarBoy, what's the difference?](https://medium.com/@txt_mag/wizkid-or-starboy-whats-the-difference-48000d7a846b). In this dataset, some of the artists featured include Comedians, such as the "Basketmouth" channel, had to look them up since I had not heard of them before. I chose to leave the plot as is but one can certainly filter out this group. 
+
+![Most popular African artists on Spotify](topartist.jpg)
+
+
 
 
