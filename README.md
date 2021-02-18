@@ -26,8 +26,9 @@ Here are the plots for each one, thought it would be more representative to have
         wizkid_img <- readJPEG("wizkid.jpg")
 
       #To insert background image use the annotation custom function of the ggplot2 package 
-      # and the rasterGrob-function of the grid package
-      wizkidgraph=ggplot(WizKid_df,aes(x=reorder(name,danceability),danceability))+ 
+      #and the rasterGrob-function of the grid package
+      
+      ggplot(WizKid_df,aes(x=reorder(name,danceability),danceability))+ 
       ggtitle("Wizkid most danceable songs on Spotify")+xlab("")+
       scale_fill_continuous(guide = FALSE)+
       annotation_custom(rasterGrob(wizkid_img, 
