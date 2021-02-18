@@ -6,4 +6,4 @@ This post is inspired by an article about popular podcasts in Kenya (https://nat
 1. What is the most common genre in Afrobeats music?
 The original data set has a field called "Popularity", starting from zero to the highesy 73. I chose to filter out all zero values. 
 The histogram generated is below: 
-![Popular songs histogram](https://octodex.github.com/images/yaktocat.png)
+![Popular songs histogram](https://github.com/sgichuki/Afrobeats/popsonghistogram.jpg)
