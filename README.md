@@ -10,5 +10,7 @@ The histogram generated is below:
 
 2. Which are the most danceable songs? 
 Danceability is one of the attributes of Spotify data. Danceability "describes how suitable a track is for dancing. Values range from 0.0 being least danceable and 1.0 being most danceable." 
+
 ![Most danceable songs](danceabilityplot.jpg)
+
 
