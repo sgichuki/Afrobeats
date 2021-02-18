@@ -6,7 +6,7 @@ I read an article about [popular podcasts in Kenya](https://nation.africa/kenya/
 ## 1. What is the most common genre in Afrobeats music?
 The original data set has a field called "Popularity", starting from zero to the highest 73. I chose to filter out all zero values. 
 No surprises here, afrobeats draws alot from dancehall music i.e. in terms of the beats. So no wonder one of the most popular genres represented is dancehall. 
-Unfortunately some songs had no genre attributed to them, that is why there is a category called "Missing", this is not a real African music genre
+Unfortunately some songs had no genre attributed to them, that is why there is a category called "Missing", this is not a real African music genre :smile:
 ![Popular songs histogram](popsonghistogram.jpg)
 
 ## 2. Most danceable Afrobeats songs on Spotify 
