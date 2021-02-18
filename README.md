@@ -23,4 +23,7 @@ I did the same for Davido. However, I could not find a photo in a good size with
 
 ![Davido's most danceable songs on Spotify](davidograph.jpg)
 
+## 4. Which African artists were the most popular on Spotify?
+For this, I filtered them out of the data set based on average of the popularity scores of their songs. One you look at the plot, you notice that both Starboy and Wizkid appear, same person right? Not so much, an article on Medium explains that each moniker is associated with a particular style of music targeted at different audiences. Wizkid content is targeted at his international audience, while Starboy caters to his Nigerian fan base who love his afrobeat vibe. Read more about this here: [Wizkid or StarBoy, what's the difference?](https://medium.com/@txt_mag/wizkid-or-starboy-whats-the-difference-48000d7a846b)
+
 
